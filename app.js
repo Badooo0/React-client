@@ -3,7 +3,10 @@
 function App(){
 
     return(
-        <h2>React</h2>
+        <div>
+            <h2>React</h2>
+            <p>This is a p tag</p>
+        </div>
     );
 }
 
